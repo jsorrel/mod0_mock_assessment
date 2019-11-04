@@ -1,0 +1,23 @@
+Object: Zarquon
+
+Attributes:
+coat_color: "fawn"
+weight: "19"
+date_of_birth: 1415143334
+breed: "Italian Greyhound"
+commands: ["Sit", "Lay down"]
+possessed_by: "Jaina Sorrel"
+toys: ["frisbee", "rope", "ball"]
+last_fed: 1572891734
+
+Object: "Dubois"
+
+Attributes:
+coat_color: "black"
+weight: "12"
+date_of_birth: 1194200534
+breed: "Miniature Pinscher"
+commands: ["Sit", "Lay down", "Roll over", "Stand up", "Dance"]
+possessed_by: "Jaina Sorrel"
+toys: ["frisbee", "rope", "ball", "unstuffed plush toy"]
+last_fed: 1572891734
