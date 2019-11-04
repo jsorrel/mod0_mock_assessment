@@ -1,0 +1,33 @@
+1. Make a sandwich
+1.1. Preparation
+1.1.1. Kitchen & supplies
+1.1.1.1. Clean prep area
+1.1.1.1. Wash vegetables
+1.1.1.1. Locate knives
+1.1.1. Pantry
+1.1.1.1. Locate veggies
+1.1.1.1. Locate bread
+1.1.1.1. Locate dressing
+1.1.1.1. Locate protein
+1.1. Assembly
+1.1.1. Bread
+1.1.1.1. Slice bread
+1.1.1.1. Toast bread
+1.1.1.1. Place top of bread atop protein
+1.1.1. Dressing
+1.1.1.1. Spread dressing on toasted bread using butter knife
+1.1.1. Veggies
+1.1.1.1. Slice veggies
+1.1.1.1. Place atop dressed bread
+1.1.1. Protein
+1.1.1.1. Season protein
+1.1.1.1. Cook protein
+1.1.1.1. Place cooked protein atop veggies
+1.1. Finishing
+1.1.1. Clean area
+1.1.1.1. Wipe down prep area with sanitzer
+1.1.1.1. Wash knives
+1.1.1.1. Discard scraps
+1.1.1. Replace items used
+1.1.1.1. Put knives away
+1.1.1.1. Store foods not used
