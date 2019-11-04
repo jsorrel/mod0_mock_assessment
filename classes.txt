@@ -1,0 +1,18 @@
+Class `dog`
+Attributes:
+`coat_color` - string containing descriptive color of dog's coat
+`weight` - int containing dog's weight in grams
+`date_of_birth` - int containing time of birth stored in unix time
+`breed` - string identifying breed
+`commands` - array containing strings of commands dog will perform
+`possessed_by` - string containing name of parent/owner/master
+`toys` - array containing strings of toy names
+`last_fed` - int containing date of last feeding stored in unix time
+
+Methods
+`age` - returns current time minus date_of_birth
+`feed` - updates last_fed to current time
+`ishungry` - returns true if current time minus last_fed exceeds threshold
+`give_toy` - adds value to toys
+`discard_toy` - removes value from toys
+`teach_command` - adds value to commands
